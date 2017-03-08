@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "Secret_re",
+    "pageAccessToken": "Page_token",
+    "validationToken": "Validation_token_by_spiros",
+    "serverURL": "https://cryptic-shelf-26648.herokuapp.com/"
 }
